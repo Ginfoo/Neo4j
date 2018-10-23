@@ -4,6 +4,9 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
+/**
+ * 解析工具
+ */
 public class ParseUtil {
     private static final String NEO4J_PROPERTIES = "neo4j.properties";
     private static final String NEO4J_PATH = "neo4j.path";

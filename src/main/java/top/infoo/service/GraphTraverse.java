@@ -6,6 +6,9 @@ import org.neo4j.graphdb.traversal.TraversalDescription;
 import org.neo4j.graphdb.traversal.Traverser;
 import top.infoo.types.Relationships;
 
+/**
+ *  遍历节点
+ */
 public class GraphTraverse {
     private GraphDatabaseService db;
 

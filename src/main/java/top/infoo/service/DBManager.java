@@ -19,7 +19,7 @@ public class DBManager {
     }
 
     /**
-     * 获取数据库
+     * 获取数据库DB
      *
      * @return
      */
